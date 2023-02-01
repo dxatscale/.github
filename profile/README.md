@@ -1,6 +1,6 @@
 <div align="center">
   <h1>DX@Scale</h1>
-  <a href="https://docs.dxatscale.io/about-us/contributing-to-dx-scale"><img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" /></a>
+  <a href="https://github.com/dxatscale/dxatscale/blob/main/CODE_OF_CONDUCT.md"><img src="https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg" /></a>
   <a href="https://docs.dxatscale.io/about-us/contributing-to-dx-scale"><img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg" /></a>
   <a href="https://launchpass.com/dxatscale"><img src="https://img.shields.io/badge/chat-on%20slack-blue.svg" /></a>
   <br />
