@@ -11,8 +11,6 @@
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://github.com/dxatscale/dxatscale">release log</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://github.com/Craft-First">craft-first</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://github.com/dxatscale/dxatscale-template">project templates</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
   <a href="https://launchpass.com/dxatscale">slack</a>
