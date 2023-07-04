@@ -24,9 +24,10 @@ DX@Scale is a collection of practices, open-source tools, frameworks, and practi
 Utilizing our 'curated' practices, you can build a modular Salesforce Org that is reliable and easy to maintain.
 
 ### Why DX@Scale?
-Salesforce has rightfully established not just a CRM platform, but as an enterprise platform (PaaS) that can be customized by low/no/pro coders for running various applications across the enterprise. Salesforce historically was a platform that was designed with 'clicks not code' philosophy, however due to the scale of customization, criticality to the enterprise, increase in number of applications, a new workflow based on modern development principles (command line interface, version control, modular development, temporary development environments, aka "Scratch Orgs") was ushered through Salesforce DX in 2018.
 
-The introduction of Salesforce DX revolutionized the ways of working with Salesforce. Large and complex programs have often suffered from poor developer experience, unreliable deployments, costly governance in the past due to lack of the right tooling/practices. DX@Scale was established to simplify the developer experience, achieve consistent and reliable deployment, and reduce the cost/overhead in Salesforce Programs.
+We have been early adopters of Salesforce DX and saw it as a massive step towards improving the developer/admin experience. The version control system was finally the source of truth, and we loved it.
+We wanted to take it to the next level and apply Continuous Delivery principles to Salesforce. We have defined an approach and a set of practices, and we have developed a set of tools to support them.
+We have open-sourced all of that. DX@Scale is now used on more than 150 Salesforce Production Orgs worldwide
 
-Read more about us at https://docs.dxatscale.io/
+Read more about us at https://dxatscale.io
 
