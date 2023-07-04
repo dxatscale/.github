@@ -5,7 +5,7 @@
   <a href="https://launchpass.com/dxatscale"><img src="https://img.shields.io/badge/chat-on%20slack-blue.svg" /></a>
   <br />
   <br />
-   <a href="https://github.com/dxatscale/dxatscale/discussions/">discussions</a>
+   <a href="https://launchpass.com/dxatscale">discussions</a>
    <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
    <a href="https://docs.dxatscale.io/">docs</a>
   <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
